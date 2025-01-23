@@ -1,0 +1,20 @@
+{
+    "configurations": [
+      {
+        "type": "debugpy",
+        "request": "launch",
+        "name": "Launch Pacman",
+        "program": "${workspaceFolder}/pacman.py",
+        "args": [
+          "-l",
+          "tinyMaze",
+          "-p",
+          "SearchAgent",
+          "-a",
+          "fn=dfs"
+        ]
+      }
+    ]
+  }
+
+  // -l tinyMaze -p SearchAgent -a fn=dfs
