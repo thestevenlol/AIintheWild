@@ -34,6 +34,8 @@ description for details.
 Good luck and happy searching!
 """
 
+from collections import deque
+
 from game import Directions
 from game import Agent
 from game import Actions
@@ -452,9 +454,48 @@ def foodHeuristic(state, problem):
     Subsequent calls to this heuristic can access
     problem.heuristicInfo['wallCount']
     """
-    position, foodGrid = state
-    "*** YOUR CODE HERE ***"
-    return 0
+
+    def get_path_distance_bfs(start_pos, end_pos, walls):
+        """
+        Calculates the shortest path distance between start_pos and end_pos using BFS,
+        respecting walls. Returns the path length (number of moves), or infinity if no path.
+        """
+        start_node = (start_pos, 0) # (position, distance)
+        queue = deque([start_node])
+        visited = {start_pos} 
+
+        while queue:
+            current_pos, current_distance = queue.popleft()
+
+            if current_pos == end_pos:
+                return current_distance
+
+            x, y = current_pos
+            # Explore neighbors (North, South, East, West)
+            for direction in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
+                next_x, next_y = x + direction[0], y + direction[1]
+                next_pos = (next_x, next_y)
+
+                if not walls[next_x][next_y] and next_pos not in visited: # Check for wall and not visited
+                    visited.add(next_pos)
+                    queue.append(((next_x, next_y), current_distance + 1))
+
+        return float('inf') # No path found to end_pos
+
+    pacman_pos, food_grid = state
+    food_locations = food_grid.asList()
+
+    if not food_locations:  # No food left, goal reached
+        return 0  # Heuristic value is 0 at the goal
+
+    min_distance = float('inf')  # Initialize with infinity
+
+    for food_pos in food_locations:
+        path_distance = get_path_distance_bfs(pacman_pos, food_pos, problem.walls)
+        min_distance = min(min_distance, path_distance)
+
+    return min_distance
+
 
 class ClosestDotSearchAgent(SearchAgent):
     "Search for all food using a sequence of searches"
