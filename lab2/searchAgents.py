@@ -455,6 +455,10 @@ def foodHeuristic(state, problem):
     problem.heuristicInfo['wallCount']
     """
 
+    # This heuristic takes a long time to actually run, however, 
+    # the total amount of nodes expanded is less than around ~4000 less than with the null heuristic, 
+    # yet about 5 seconds longer to run...
+
     def get_path_distance_bfs(start_pos, end_pos, walls):
         """
         Calculates the shortest path distance between start_pos and end_pos using BFS,
