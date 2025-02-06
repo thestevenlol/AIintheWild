@@ -1,0 +1,29 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BehaviourTreeExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\AI4Games\ABS\abs\Wander.h(13,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\AI4Games\ABS\abs\Hide.h(63,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\AI4Games\ABS\abs\Hide.h(95,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\AI4Games\ABS\abs\Hide.h(95,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\AI4Games\ABS\abs\Hide.h(104,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\AI4Games\ABS\abs\Hide.h(104,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\AI4Games\ABS\abs\Hide.h(110,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\AI4Games\ABS\abs\Hide.h(111,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\AI4Games\ABS\abs\Hide.h(115,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\AI4Games\ABS\abs\Hide.h(116,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  abs.vcxproj -> C:\AI4Games\ABS\x64\Debug\abs.exe
