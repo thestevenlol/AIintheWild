@@ -13,7 +13,7 @@ TARGET = abs_program
 all: $(TARGET)
 
 $(TARGET): $(OBJS)
-	$(CXX) $(OBJS) -o $(TARGET)
+	$(CXX) $(OBJS) -o $(TARGET) -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network -lsfml-audio
 
 %.o: $(SRC_DIR)/%.cpp
 	$(CXX) $(CXXFLAGS) -c $< -o $@
