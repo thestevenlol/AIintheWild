@@ -220,7 +220,7 @@ void Game::setupDroids()
 	// Another example Droid with a simple MoveTo Behaviour starting at a random position
 	srand(time(0));
 	Droid* d2 = new Droid("D2", (rand() % (int)gridWorld.gridSize) + 1, (rand() % (int)gridWorld.gridSize) + 1, 1000, 0, 3, gridWorld);
-	Routine* moveTo2 = new MoveTo(15, 15, gridWorld);
+	Routine* moveTo2 = new Wander(gridWorld);
 	d2->setBehaviour(moveTo2);
 	d2->setBrain(emptyBrain);
 	d2->setColour(sf::Color::Green);
@@ -242,7 +242,7 @@ void Game::setupDroids()
 	// Example Droid with a Protect Behaviour
 	// Protect Droid 1 (yellow) from Droid 2 (Green)
 	Droid* d5 = new Droid("D5", (rand() % (int)gridWorld.gridSize) + 1, (rand() % (int)gridWorld.gridSize) + 1, 1000, 0, 3, gridWorld);
-	Routine* protect1 = new Protect(1, 3, gridWorld); // Protect Yellow from Magenta
+	Routine* protect1 = new Protect(1, 2, gridWorld); // Protect Yellow from Magenta
 	d5->setBehaviour(protect1);
 	d5->setBrain(emptyBrain);
 	d5->setColour(sf::Color::Blue);
