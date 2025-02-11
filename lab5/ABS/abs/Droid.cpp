@@ -15,7 +15,7 @@ Droid::Droid(string name, int x, int y, int health, int damage, int range, Grid&
     position = grid.getGridLocation(x, y);
     target = position;
 
-    if (!droidTex.loadFromFile("ASSETS\\IMAGES\\BB-8.png"))
+    if (!droidTex.loadFromFile("ASSETS/IMAGES/BB-8.png"))
     {
         // simple error message if previous call fails
         std::cout << "problem loading sprite" << std::endl;

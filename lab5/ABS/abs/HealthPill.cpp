@@ -10,7 +10,7 @@ HealthPill::HealthPill(int x, int y, int strength, bool visible, Grid& grid)
     this->visible = visible;
     position = grid.getGridLocation(x, y);
 
-    if (!healthTex.loadFromFile("ASSETS\\IMAGES\\Health.png"))
+    if (!healthTex.loadFromFile("ASSETS/IMAGES/Health.png"))
     {
         // simple error message if previous call fails
         std::cout << "problem loading sprite" << std::endl;
