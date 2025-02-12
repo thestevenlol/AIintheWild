@@ -1,0 +1,70 @@
+C:\Oisin\Projects\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Oisin\Projects\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Oisin\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Oisin\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.frmMain.resources
+C:\Oisin\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Oisin\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+C:\Oisin\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Oisin\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.frmMain.resources
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron (1)\Perceptron\obj\Debug\Perceptron.exe
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron (1)\Perceptron\obj\Debug\Perceptron.pdb
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron (1)\Perceptron\bin\Debug\Perceptron.exe
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron (1)\Perceptron\bin\Debug\Perceptron.pdb
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron (1)\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron (1)\Perceptron\obj\Debug\Perceptron.frmMain.resources
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron (1)\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Oisin\GoogleDrive\ITC\AI4G\Oisin\7-ANN\Perceptron (1)\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.frmMain.resources
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Oisin\Google Drive\ITC\AI4G\Oisin\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csprojAssemblyReference.cache
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.frmMain.resources
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\cawleyo\Google Drive\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.frmMain.resources
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\Users\Oisin\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csprojAssemblyReference.cache
+C:\Users\Oisin\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.frmMain.resources
+C:\Users\Oisin\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\Oisin\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\Oisin\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Oisin\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\Users\Oisin\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Oisin\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.AssemblyReference.cache
+C:\Users\cawleyo\OneDrive - Institute of Technology Carlow\ITC\AI4G\Oisin\7-Machine Learning\7-ANN\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\AI4Games\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\AI4Games\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\AI4Games\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\AI4Games\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.AssemblyReference.cache
+C:\AI4Games\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.SuggestedBindingRedirects.cache
+C:\AI4Games\Perceptron\Perceptron\obj\Debug\Perceptron.frmMain.resources
+C:\AI4Games\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\AI4Games\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\AI4Games\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\AI4Games\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\AI4Games\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
