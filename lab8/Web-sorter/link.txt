@@ -1,1 +1,8 @@
-https://teachablemachine.withgoogle.com/models/eWtB6dIS1/
+cheese
+https://teachablemachine.withgoogle.com/models/eWtB6dIS1/ 
+
+paper
+https://teachablemachine.withgoogle.com/models/dUjm1b-jO/
+
+airwaves
+https://teachablemachine.withgoogle.com/models/xqJifcXUS/
